@@ -1,5 +1,6 @@
 # super-duper-spoon
 Grafika i komunikacja człowiek - komputer | Ćwiczenia
+
 Cel: zaprojektowanie witryny internetowej - prototyp (Axure RP), html i css
 
 ## Elektronika medyczna
