@@ -32,3 +32,9 @@ Projekt otrzymany od innej grupy
 ### Sugestie dot. podstron
 Kursy online to raczej taki moduł cały wydaje się być, przydałby się widok z zaplecza, gdzie użytkownik końcowy ma możliwość konfiguracji / wprowadzenia / danych związanych z kursem, czy ogólnie zarządzania kursami. Przydałby się także przeprojektowany widok dla samego użytkownika z dodatkowymi elementami, które chcielibyśmy umieścić w sekcji "premium". Może też nawet pliki video można by dodać, czy też nawet jakieś formularze testujące wiedzę z jakiegoś rozdziału tematycznego. Ostatecznie wszystko sprowadzi się do masowej produkcji formularzy i to tyle o ile w ogóle byśmy chcieli implementować widoki tych funkcjonalności - ujęcie ich w prototypie pozostawiam do rozważenia
 
+###
+* Dariusz - 
+* Filip -
+* Jakub - 
+
+
